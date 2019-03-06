@@ -8,4 +8,5 @@ Instructions to run:
 2. npm start
 
 Here's what it looks like:
+
 ![collapsiblereactjs](https://user-images.githubusercontent.com/16201150/53857886-d56a5e00-3f8c-11e9-98ce-76df915ec243.gif)
